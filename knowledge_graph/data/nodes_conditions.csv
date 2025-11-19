@@ -1,0 +1,124 @@
+condition_id,condition_name,entity_type
+diabetes,Diabetes,condition
+hypertension,Hypertension,condition
+cancer,Cancer,condition
+inflammation,Inflammation,condition
+cerebrovascular-accident,Cerebrovascular Accident,condition
+cardiovascular-disease,Cardiovascular Disease,condition
+bone-health,Bone Health,condition
+colorectal-cancer,Colorectal Cancer,condition
+type-2-diabetes,Type 2 Diabetes,condition
+bone-mineral-density,Bone Mineral Density,condition
+cholesterol-levels,Cholesterol Levels,condition
+premenstrual-syndrome,Premenstrual Syndrome,condition
+renal-disease,Renal Disease,condition
+alcohol-withdrawal-symptoms,Alcohol Withdrawal Symptoms,condition
+iron-deficiency-anemia,Iron Deficiency Anemia,condition
+of-deficiency,Of Deficiency,condition
+anemia,Anemia,condition
+adhd,ADHD,condition
+cough-induced-by-ace-inhibitors,Cough Induced By ACE Inhibitors,condition
+pregnancy,Pregnancy,condition
+magnesium-deficiency,Magnesium Deficiency,condition
+osteoporosis,Osteoporosis,condition
+depression,Depression,condition
+tumor,Tumor,condition
+asthma,Asthma,condition
+migraine,Migraine,condition
+heart-failure,Heart Failure,condition
+heart-disease,Heart Disease,condition
+pain,Pain,condition
+diarrhea,Diarrhea,condition
+headache,Headache,condition
+weakness,Weakness,condition
+insomnia,Insomnia,condition
+muscle-weakness,Muscle Weakness,condition
+migraine-headaches,Migraine Headaches,condition
+postoperative-pain,Postoperative Pain,condition
+neuropathic-pain,Neuropathic Pain,condition
+raynauds-phenomenon,Raynaud's Phenomenon,condition
+inflammatory-processes,Inflammatory Processes,condition
+metabolic-syndrome,Metabolic Syndrome,condition
+arrhythmias,Arrhythmias,condition
+premenstrual-syndrome-pms,Premenstrual Syndrome (pms),condition
+noiseinduced-hearing-loss,Noise-induced Hearing Loss,condition
+renal-stone-formation,Renal Stone Formation,condition
+selenium-deficiency,Selenium Deficiency,condition
+severe-deficiency,Severe Deficiency,condition
+that-deficiency,That Deficiency,condition
+arthritis,Arthritis,condition
+anxiety,Anxiety,condition
+infection,Infection,condition
+alzheimer,Alzheimer,condition
+dementia,Dementia,condition
+prostate-cancer,Prostate Cancer,condition
+breast-cancer,Breast Cancer,condition
+ovarian-cancer,Ovarian Cancer,condition
+keshan-disease,Keshan Disease,condition
+hypothyroidism,Hypothyroidism,condition
+aids,AIDS,condition
+oxidative-stress,Oxidative Stress,condition
+deficiency-in-developing-countries-10558,Deficiency In Developing Countries (10558,condition
+deficiency,Deficiency,condition
+treat-deficiency,Treat Deficiency,condition
+retinol-deficiency,Retinol Deficiency,condition
+fatigue,Fatigue,condition
+vitamin-a-deficiency,Vitamin A Deficiency,condition
+cancer-cell-growth,Cancer Cell Growth,condition
+follicular-hyperkeratosis,Follicular Hyperkeratosis,condition
+immune-function,Immune Function,condition
+neural-development,Neural Development,condition
+night-blindness,Night Blindness,condition
+wound-healing,Wound Healing,condition
+folate-deficiency,Folate Deficiency,condition
+vitamin-b12-deficiency,Vitamin B12 Deficiency,condition
+indicate-deficiency,Indicate Deficiency,condition
+carcinoma,Carcinoma,condition
+megaloblastic-anemia,Megaloblastic Anemia,condition
+neurologic-damage,Neurologic Damage,condition
+cognitive-performance-impairment,Cognitive Performance Impairment,condition
+chronic-fatigue-syndrome,Chronic Fatigue Syndrome,condition
+elevated-homocysteine-levels,Elevated Homocysteine Levels,condition
+hepatitis-c-virus-replication,Hepatitis C Virus Replication,condition
+alzheimer-disease,Alzheimer Disease,condition
+hearing-loss,Hearing Loss,condition
+voice-fatigue,Voice Fatigue,condition
+running-seems-to-reduce-postexercise-serum-cortisol-and-cytokines-11961,Running Seems To Reduce Post-exercise Serum Cortisol And Cytokines (11961),condition
+significant-deficiency,Significant Deficiency,condition
+c-deficiency,C Deficiency,condition
+collagen-deficiency,Collagen Deficiency,condition
+lymphoma,Lymphoma,condition
+leukemia,Leukemia,condition
+scurvy,Scurvy,condition
+fever,Fever,condition
+vitamin-c-deficiency,Vitamin C Deficiency,condition
+creactive-protein-crp-levels,C-reactive Protein (crp) Levels,condition
+sepsis,Sepsis,condition
+allergic-rhinitis,Allergic Rhinitis,condition
+coronary-artery-disease,Coronary Artery Disease,condition
+common-cold,Common Cold,condition
+gout,Gout,condition
+photoaging,Photo-aging,condition
+d-deficiency,D Deficiency,condition
+bronchitis,Bronchitis,condition
+rickets,Rickets,condition
+vitamin-d-deficiency,Vitamin D Deficiency,condition
+chronic-renal-failure,Chronic Renal Failure,condition
+autoimmune-diseases,Autoimmune Diseases,condition
+k-deficiency,K Deficiency,condition
+e-deficiency,E Deficiency,condition
+inapparent-deficiency,Inapparent Deficiency,condition
+epilepsy,Epilepsy,condition
+various-cancers,Various Cancers,condition
+photoaged-skin,Photo-aged Skin,condition
+tardive-dyskinesia,Tardive Dyskinesia,condition
+vitamin-e-deficiency,Vitamin E Deficiency,condition
+zinc-deficiency,Zinc Deficiency,condition
+but-deficiency,But Deficiency,condition
+to-deficiency,To Deficiency,condition
+nausea,Nausea,condition
+gingivitis,Gingivitis,condition
+peptic-ulcers,Peptic Ulcers,condition
+acne,Acne,condition
+male-infertility,Male Infertility,condition
+wilson-disease,Wilson Disease,condition

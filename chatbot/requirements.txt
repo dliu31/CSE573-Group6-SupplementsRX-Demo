@@ -1,0 +1,12 @@
+langgraph
+langchain
+ipython
+langchain_community
+dotenv
+typing
+chromadb
+langchain_chroma
+langchain-google-genai
+neo4j
+streamlit
+ddgs

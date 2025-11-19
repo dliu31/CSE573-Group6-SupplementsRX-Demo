@@ -1,0 +1,11 @@
+supplement_id,supplement_name,entity_type
+calcium,Calcium,supplement
+iron,Iron,supplement
+magnesium,Magnesium,supplement
+selenium,Selenium,supplement
+vitamin-a,Vitamin A,supplement
+vitamin-b12,Vitamin B12,supplement
+vitamin-c,Vitamin C,supplement
+vitamin-d,Vitamin D,supplement
+vitamin-e,Vitamin E,supplement
+zinc,Zinc,supplement

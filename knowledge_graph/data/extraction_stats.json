@@ -1,0 +1,16 @@
+{
+  "total_rows": 10,
+  "valid_rows": 10,
+  "invalid_rows": 0,
+  "total_triples": 237,
+  "unique_supplements": 10,
+  "unique_conditions": 123,
+  "extraction_methods": {
+    "condition": 91,
+    "llm": 98,
+    "deficiency": 26,
+    "symptom": 20,
+    "treats": 1,
+    "procedure_prep": 1
+  }
+}
