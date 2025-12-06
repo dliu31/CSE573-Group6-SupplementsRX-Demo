@@ -1,0 +1,53 @@
+# Questions about supplements
+Input: What conditions is calcium good for?
+Expected_Output: Calcium is good for promoting bone health and helping your heart, muscles and nerves to function. Some studies have also found calcium may protect against cancer, diabetes, and high blood pressure.
+Input: What conditions is iron good for?
+Expected_Output: Iron is good if you have a deficiency in iron. This can potentially help with anemia, ADHD, pregnancy, and coughs induced by ace inhibitors.
+Input: What conditions is vitamin A good for?
+Expected_Output: Vitamin A can aid with multiple conditions such as cancer, depression, anemia, osteoporosis, and inflammation. It is also important for immune function and neural development. It can also assist with night blindness and wound healing.
+Input: What conditions is zinc good for?
+Expected_Output: Zinc can aid with arthritis in some cases, diabetes, depression, osteoporosis, cancer, inflammation, and HIV infection. Zinc can also help with male infertility and wound healing. Studies have also shown it's possible for zince to aid with acne and peptic ulcers.
+Input: What conditions is Selenium good for?
+Expected_Output: Selenium is good as an antioxidant which can be helpful for conditions like Alzheimer's and cell damage and boosting your immune system. It may also protect against heart disease.  It also lowers the chances of various cancers like prostate, colorectal, and breast. Selenium has also been found to reduce the risk of Thyroid disease.
+
+# Follow-up questions about supplements (Also shows the LLM staying on task)
+# Calcium
+Input: For calcium, how much should my daily intake be?
+Expected_Output: Daily intake changes depending on an individual's age and gender. For individuals younger than 4, a few hundred miligrams is recommended, while for individuals older, it can range from 1000-1300.
+Input: What are food sources for it?
+Expected_Output: Sources of calcium include: Dairy products, such as cheese, milk and yogurt. Dark green leafy vegetables, such as broccoli and kale. Fish with edible soft bones, such as sardines and canned salmon. Calcium-fortified foods and beverages, such as soy products, cereal and fruit juices, and milk substitutes
+Input: What are the risks of taking too little of it?
+Expected_Output: If you don't get enough calcium, you could face health problems related to weak bones.
+Input: What are the risks of taking too much it?
+Expected_Output: There are potential risks of too much calcium resulting in heart disease or prostate cancer, but studies have been inconclusive so far.
+# Zinc
+Input: For zinc, how much should my daily intake be?
+Expected_Output: The recommended daily intake for zinc ranges from 2-8 milligrams for children, and 11 milligrams for teens and older. Please consult with a medical professional for your needs.
+Input: What are food sources for it?
+Expected_Output: The richest food sources of zinc include meat, fish, and seafood. Eggs and dairy products also contain zinc. Beans, nuts, and whole grains contain zinc. Zinc fortified foods can also be a good source.
+Input: What are the risks of taking too much of it?
+Expected_Output: High zinc intakes can cause nausea, dizziness, headaches, gastric distress, vomiting, and loss of appetite. Excessive intake can also reduce copper absorption (which can cause low copper status), reduce immune function, and lower HDL cholesterol levels.
+Input: What are most of the risks of having a deficiency in it?
+Expected_Output: In infants and children, diarrhea is a common sign. In older children, alopecia, delayed growth, and frequent infections become more prevalent. In both infants and children, zinc deficiency can impair growth and lead to a loss of appetite and reproductive problems when they reach adulthood. In populations with low intakes of absorbable zinc (e.g., from meat and fish), zinc deficiency affects the health of pregnant women and their infants by increasing the risk of child morbidity (including premature birth and low birthweight) and mortality, maternal morbidity, and adverse birth outcomes. In addition, zinc deficiency can interfere with the senses of taste and smell. Zinc deficiency in older adults can cause delays in wound healing and changes in cognitive and psychological function.
+# Selenium
+Input: What is the risk of selenium deficiency?
+Expected_Output: On its own, selenium deficiency rarely causes illness. However, in certain populations, selenium deficiency may trigger the development of conditions such as Keshan disease and Kashin-Beck disease. In addition, selenium deficiency may increase the risk of congenital hypothyroidism in infants by exacerbating iodine deficiency.
+Input: What are sources for selenium?
+Expected_Output: Foods that are high in protein, such as seafood, meat, and poultry, are rich sources of selenium. Brazil nuts contain particularly high amounts of selenium. The selenium concentrations of plant-based foods vary by geographic location.
+Input: What is the risk of taking too much selenium?
+Expected_Output: Too much selenium can cause selenosis.
+Input: What is selenosis and what harmful effects does it cause on the body?
+Expected_Output: Selenosis is most commonly characterized by hair loss and nail brittleness or loss, but other signs and symptoms can include a garlic odor in the breath, a metallic taste in the mouth, skin rash, nausea, diarrhea, fatigue, irritability, and nervous system abnormalities.
+
+
+# Question about supplements for certain conditions
+Input: If I want to prevent colorectal-cancer, what supplements should I take?
+Expected_Output: Both Selenium and Calcium have been found to help prevent colorectal cancer.
+Input: I've been having bad insomnia lately, what supplements should I take?
+Expected_Output: Magnesium has been found to aid people who struggle to fall asleep.
+Input: I've been suffering from a lot of fatigue lately, what supplements could help relieve these symptoms?
+Expected_Output: Vitamin A, B12, C, and D can all aid in preventing or reducing fatigue.
+Input: I've been suffering from muscle weakness, what supplements could help relieve these symptoms?
+Expected_Output: A lack of vitamin d and e and magnesium can all cause muscle weakness.
+Input: What supplements can I take to reduce the likelihood of hypertension?
+Expected_Output: Studies have shown that magnesium, calcium, vitamin D, and vitamin C can all be used to reduce the likelihood of and aid with hypertension.

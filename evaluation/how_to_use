@@ -1,0 +1,13 @@
+# Install the following
+- https://docs.cloud.google.com/sdk/docs/install
+- pip install deepeval
+- pip install langchain_google_vertexai
+
+# Run the following notebook
+Evaluation.py
+- In log_file_1, provide it the chatbot's {<user_intent> : <output>}
+- In log_file_2, provide it the chatbot's {Rag context: <context>}
+- In input_file, provide it the {
+                                    Input: <input>
+                                    Expected_Output: <expected_output>
+                                }

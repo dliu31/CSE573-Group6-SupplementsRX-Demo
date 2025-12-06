@@ -1,0 +1,30 @@
+Rag Context: 
+ People use Polypodium leucotomos for sunburn, eczema, dark skin patches on the face, cancer, and many other conditions, but there is no good scientific evidence to support these uses. Polypodium leucotomos is POSSIBLY SAFE when taken by mouth or applied to the skin, short-term.
+---------------------
+Rag Context: 
+ Calculate optimal Vitamin K2 dosages in milligrams (mg) using your body weight in kilograms (kg) or pounds (lbs). Our free dosage calculator provides personalized dose recommendations based on research data.
+---------------------
+Rag Context: 
+ User.com is a marketing automation platform that helps companies streamline processes and grow their business faster and transform behavior into personalized experiences, without the dev time. Nov 8, 2019 · The --user option modifies all pip commands that accept it to see/operate on the user install folder, so if you use pip list --user it will only show you packages installed with pip install --user.
+---------------------
+Rag Context: 
+ User.com is a marketing automation platform that helps companies streamline processes and grow their business faster and transform behavior into personalized experiences, without the … Nov 8, 2019 · The --user option modifies all pip commands that accept it to see/operate on the user install folder, so if you use pip list --user it will only show you packages installed with pip … Feb 24, 2013 · A consonant is a sound blocked or restricted by audible friction. The initial sound of ‘user’, /j/,...
+---------------------
+Rag Context: 
+ Magnesium glycinate is gentler on the gut than many forms, but it can still cause issues in people with kidney problems or certain medications. Learn who should avoid magnesium glycinate , key drug interactions, safe dosing limits, monitoring advice, and simple precautions.
+---------------------
+Rag Context: 
+ Learn about attention - deficit / hyperactivity disorder ( ADHD ), including ADHD symptoms and how it's diagnosed and treated. Find out about ADHD ( attention deficit hyperactivity disorder ) in children and teenagers, the symptoms of ADHD , how to get a diagnosis and how to manage it.
+---------------------
+Rag Context: 
+ Feb 24, 2013 · A consonant is a sound blocked or restricted by audible friction. The initial sound of ‘user’, /j/, is interrupted by the position of the soft palate and the tongue.
+---------------------
+Rag Context: 
+ D 3 helps youy body absorb calcium, and K 2 helps D 3 direct calcium to your bones rather than your arteries. The dose really depends on whether your level is low or normal.
+---------------------
+Rag Context: 
+ Sep 14, 2025 · Supplement timing matters for some nutrients more than others. Find out whether timing matters for vitamin C to maximize its effectiveness.
+---------------------
+Rag Context: 
+ These doses are the highest anyone should add to their diet . Many people take in significant quantities of magnesium through the foods they eat.
+---------------------
